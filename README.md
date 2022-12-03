@@ -1,8 +1,1 @@
-B
-A
-A
-B
-B
-C
-C
-ver well
+its My first Day to code DAM its great
